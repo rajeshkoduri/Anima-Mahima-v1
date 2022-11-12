@@ -1,5 +1,5 @@
 # Anima-Mahima-v1
-# This project helps resize the images on browser instance
+### This project helps resize the images on browser instance
 
 # Use 'npm build' command to build the project
 # Use 'npm start' command to run the project
